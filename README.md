@@ -18,7 +18,7 @@ Description
 This is a sample reposistory. In this respository you will be able to practice using Github and Markdwon syntax. The README file has been formatted with various Markdown elements.
 
 How to Run Program
-- Hello_World/
+ Hello_World/
 - └── 
 - │── README.md
 - │── filename1.csv
